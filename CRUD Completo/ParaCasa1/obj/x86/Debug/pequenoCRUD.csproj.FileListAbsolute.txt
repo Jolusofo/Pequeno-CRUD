@@ -1,0 +1,9 @@
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\pequenoCRUD.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\pequenoCRUD.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\pequenoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\bin\Debug\ParaCasa1.exe
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\bin\Debug\ParaCasa1.pdb
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\pequenoCRUD.CadLivrosUIL.resources

@@ -1,0 +1,86 @@
+E:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+E:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+E:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\bin\Debug\ParaCasa1.exe
+E:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\bin\Debug\ParaCasa1.pdb
+E:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+E:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+F:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+F:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+F:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\bin\Debug\ParaCasa1.exe
+F:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\bin\Debug\ParaCasa1.pdb
+F:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+F:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+F:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\IFSP_2sm\LIP I\Semana08\ParaCasa1\ParaCasa1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2012\Segundo Semestre\FED SAI 211\Semana09\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2012\Segundo Semestre\FED SAI 211\Semana09\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2012\Segundo Semestre\FED SAI 211\Semana09\ParaCasa1\ParaCasa1\bin\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2012\Segundo Semestre\FED SAI 211\Semana09\ParaCasa1\ParaCasa1\bin\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2012\Segundo Semestre\FED SAI 211\Semana09\ParaCasa1\ParaCasa1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2012\Segundo Semestre\FED SAI 211\Semana09\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2012\Segundo Semestre\FED SAI 211\Semana09\ParaCasa1\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2012\Segundo Semestre\FED SAI 211\Semana09\ParaCasa1\ParaCasa1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2012\Segundo Semestre\FED SAI 211\Semana09\ParaCasa1\ParaCasa1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana09\ExBD I\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana09\ExBD I\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana09\ExBD I\ParaCasa1\bin\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana09\ExBD I\ParaCasa1\bin\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana09\ExBD I\ParaCasa1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana09\ExBD I\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana09\ExBD I\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana09\ExBD I\ParaCasa1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana09\ExBD I\ParaCasa1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD I\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD I\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD I\ParaCasa1\bin\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD I\ParaCasa1\bin\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD I\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD I\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD I\ParaCasa1\obj\x86\Debug\ParaCasa1.csproj.GenerateResource.Cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD 02\ParaCasa1\bin\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD 02\ParaCasa1\bin\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim02Semana10\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.csproj.GenerateResource.Cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Primeiro Semestre\Santa C#\Bim02Semana10\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Primeiro Semestre\Santa C#\Bim02Semana10\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula12\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula12\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula12\ExBD 02\ParaCasa1\bin\Debug\ParaCasa1.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula12\ExBD 02\ParaCasa1\bin\Debug\ParaCasa1.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula12\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.csprojResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula12\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula12\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula12\ExBD 02\ParaCasa1\obj\x86\Debug\ParaCasa1.csproj.GenerateResource.Cache
+C:\Users\unisanta\Downloads\Bim02Aula04\ExBD\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\unisanta\Downloads\Bim02Aula04\ExBD\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+C:\Users\unisanta\Downloads\Bim02Aula04\ExBD\ParaCasa1\bin\Debug\ParaCasa1.exe
+C:\Users\unisanta\Downloads\Bim02Aula04\ExBD\ParaCasa1\bin\Debug\ParaCasa1.pdb
+C:\Users\unisanta\Downloads\Bim02Aula04\ExBD\ParaCasa1\obj\x86\Debug\ParaCasa1.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Downloads\Bim02Aula04\ExBD\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+C:\Users\unisanta\Downloads\Bim02Aula04\ExBD\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+C:\Users\unisanta\Downloads\Bim02Aula04\ExBD\ParaCasa1\obj\x86\Debug\ParaCasa1.csproj.GenerateResource.Cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Aula10Corona07\CRUD Completo\ParaCasa1\bin\Debug\ParaCasa1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Aula10Corona07\CRUD Completo\ParaCasa1\bin\Debug\ParaCasa1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\bin\Debug\ParaCasa1.exe
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\bin\Debug\ParaCasa1.pdb
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.CadLivrosUIL.resources
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.Properties.Resources.resources
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.exe
+C:\Users\Lucas\Desktop\ASENJO\Aula10Corona07\CRUD Completo\ParaCasa1\obj\x86\Debug\ParaCasa1.pdb
